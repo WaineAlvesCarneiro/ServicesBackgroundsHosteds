@@ -1,0 +1,10 @@
+2020
+https://renicius-pagotto.medium.com/background-services-com-o-hosted-service-asp-net-core-c5c014c0c965
+
+2019
+https://www.brunobrito.net.br/aspnet-core-background-services/
+https://www.treinaweb.com.br/blog/net-core-3-0-criando-tarefas-de-segundo-plano-com-worker-service/
+https://renatogroffe.medium.com/novidades-do-net-core-3-0-worker-services-a885b9b4ce02
+
+.NET Core + Docker com banco de dados do MongoDB.
+https://renatogroffe.medium.com/net-core-docker-executando-uma-console-application-como-um-servi%C3%A7o-b16143cbdbef
